@@ -496,6 +496,7 @@ function bindKeyboardHandler(element, i) {
       }
     }
 
+    
     var scrollLeft = element.scrollLeft;
     if (deltaY === 0) {
       if (!i.scrollbarXActive) {
